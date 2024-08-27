@@ -20,7 +20,7 @@ Django Rest Framework Mohirdev course.
 `/maps` - **optional path** <br>
 
 ### HTTP METHODS - CRUD OPERATSIYALARI
-- CRUD
+- `CRUD`
     - `CREATE` - POST request
     - `READ` - GET request
     - `UPDATE` - PUT(PATCH)
