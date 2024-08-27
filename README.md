@@ -1,4 +1,4 @@
-# DRF-mohirdev
+# DRF-Tutorial
 Django Rest Framework Mohirdev course.
 
 ![alt text](images/Django-Rest-Framework-An-Introduction_Watermarked.jpg)
@@ -21,7 +21,7 @@ Django Rest Framework Mohirdev course.
 
 ### HTTP METHODS - CRUD OPERATSIYALARI
 - **CRUD** - bu `Create`, `Read`, `Update`, `Delete` qisqartmasi bo‘lib, ko‘plab dasturlarda ma’lumotlar bilan ishlashning asosiy operatsiyalarini ifodalaydi. Ushbu to‘rt amal ko‘pincha ma’lumotlar bazasi yoki boshqa ma’lumotlar saqlovchi tizimlar bilan ishlashda qo‘llaniladi.
-    - `CREATE` - POST request
+    - `CREATE - POST request
         - Yangi ma'lumot yaratish.
         - Ma'lumotlar bazasida yangi qator qo‘shish yoki API orqali yangi resurs yaratish.
         - Masalan, foydalanuvchi ro‘yxatdan o‘tganida yangi foydalanuvchini yaratiladi.
