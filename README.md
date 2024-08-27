@@ -20,8 +20,12 @@ Django Rest Framework Mohirdev course.
 `/maps` - **optional path** <br>
 
 ### HTTP METHODS - CRUD OPERATSIYALARI
-- `CRUD`
+- **CRUD** - bu `Create`, `Read`, `Update`, `Delete` qisqartmasi bo‘lib, ko‘plab dasturlarda ma’lumotlar bilan ishlashning asosiy operatsiyalarini ifodalaydi. Ushbu to‘rt amal ko‘pincha ma’lumotlar bazasi yoki boshqa ma’lumotlar saqlovchi tizimlar bilan ishlashda qo‘llaniladi.
     - `CREATE` - POST request
+        - Yangi ma'lumot yaratish.
+        - Ma'lumotlar bazasida yangi qator qo‘shish yoki API orqali yangi resurs yaratish.
+        - Masalan, foydalanuvchi ro‘yxatdan o‘tganida yangi foydalanuvchini yaratiladi.
+        - HTTP metod: `POST`.
     - `READ` - GET request
     - `UPDATE` - PUT(PATCH)
     - `DELETE` - DELETE
