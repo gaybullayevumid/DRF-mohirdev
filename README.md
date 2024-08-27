@@ -18,3 +18,13 @@ Django Rest Framework Mohirdev course.
 `www.google.com` - **hostname** 
 
 `/maps` - **optional path** <br>
+
+### HTTP METHODS - CRUD OPERATSIYALARI
+- CRUD
+    - CREATE - POST request
+    - READ - GET request
+    - UPDATE - PUT(PATCH)
+    - DELETE - DELETE
+
+WEBSITE - HTML, CSS, IMAGES, JS
+WEB API - endpoints - URL lar to'plami
