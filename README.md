@@ -13,6 +13,6 @@ Django Rest Framework Mohirdev course.
 ## HTTP verbs, endpoints and status codes
 `https://www.google.com/maps` - **URL**
 
-`https` - **schema**
-`www.google.com` - **hostname**
-`/maps` - **optional path**
+`https` - **schema** <br>
+`www.google.com` - **hostname** <br>
+`/maps` - **optional path** <br>
