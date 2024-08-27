@@ -21,10 +21,10 @@ Django Rest Framework Mohirdev course.
 
 ### HTTP METHODS - CRUD OPERATSIYALARI
 - CRUD
-    - CREATE - POST request
-    - READ - GET request
-    - UPDATE - PUT(PATCH)
-    - DELETE - DELETE
+    - `CREATE` - POST request
+    - `READ` - GET request
+    - `UPDATE` - PUT(PATCH)
+    - `DELETE` - DELETE
 
 WEBSITE - HTML, CSS, IMAGES, JS
 WEB API - endpoints - URL lar to'plami
