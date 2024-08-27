@@ -31,8 +31,16 @@ Django Rest Framework Mohirdev course.
         - Ma'lumotlar bazasidan yoki `API` orqali ma'lumotni olish.
         - Masalan, foydalanuvchilar ro'yxatini olish yoki ma’lum bir foydalanuvchi haqida ma’lumot olish.
         - HTTP metod: `GET`.
-    - `UPDATE` - PUT(PATCH)
+    - UPDATE - PUT(PATCH)
+        - Mavjud ma'lumotni yangilash.
+        - Ma'lumotlar bazasida mavjud yozuvni o‘zgartirish yoki API orqali mavjud resursni yangilash.
+        - Masalan, foydalanuvchi profilini yangilash.
+        - HTTP metod: `PUT` yoki `PATCH`.
     - `DELETE` - DELETE
+        - Mavjud ma'lumotni o'chirish.
+        - Ma'lumotlar bazasidan yozuvni o'chirish yoki `API` orqali resursni o'chirish.
+        - Masalan, foydalanuvchini o'chirish.
+        - HTTP metod: `DELETE`.
 
 WEBSITE - HTML, CSS, IMAGES, 
 
