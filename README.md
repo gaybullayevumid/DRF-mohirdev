@@ -26,5 +26,6 @@ Django Rest Framework Mohirdev course.
     - `UPDATE` - PUT(PATCH)
     - `DELETE` - DELETE
 
-WEBSITE - HTML, CSS, IMAGES, JS
+WEBSITE - HTML, CSS, IMAGES, 
+
 WEB API - endpoints - URL lar to'plami
