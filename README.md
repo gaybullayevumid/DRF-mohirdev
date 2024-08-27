@@ -7,3 +7,5 @@ Django Rest Framework Mohirdev course.
 
 > [!NOTE]
 > API (`Application Programming Interface`) bu dasturlash interfeysi bo'lib, u ikki yoki undan ortiq dastur yoki tizim o'rtasidagi o'zaro aloqa qilishga imkon beradi. API orqali bir dastur boshqa bir dasturga qanday funksiyalarni chaqirish, qanday ma'lumotlarni jo'natish yoki qabul qilish kerakligini belgilaydi.
+
+![alt text](images/image.png)
