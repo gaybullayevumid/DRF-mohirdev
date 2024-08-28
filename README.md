@@ -45,3 +45,5 @@ Django Rest Framework Mohirdev course.
 WEBSITE - HTML, CSS, IMAGES, 
 
 WEB API - endpoints - URL lar to'plami
+1. https//www.mysite.uz/api/books - GET request - barcha kitoblarni jo'natdi
+2. https//www.mysite.uz/api/books/<id> - 
