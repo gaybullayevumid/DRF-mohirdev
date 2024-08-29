@@ -45,5 +45,13 @@ Django Rest Framework Mohirdev course.
 WEBSITE - HTML, CSS, IMAGES, 
 
 WEB API - endpoints - URL lar to'plami
-1. https//www.mysite.uz/api/books - GET request - barcha kitoblarni jo'natdi
-2. https//www.mysite.uz/api/books/<id>
+1. https//www.mysite.uz/api/books - GET request - barcha kitoblarni jo'natadi.
+2. https//www.mysite.uz/api/books/<id> - birgina kitobni (`id ga ko'ra`) jo'natadi.
+3. https//www.mysite.uz/api/users/ - GET request barcha foydalanuvchilarni jo'natadi.
+4. https//www.mysite.uz/api/books/ - kitobni nomi, muallifi, page, narxi, isbn
+```python
+{
+    'title':'Kecha va kunduz',
+    'author':"Cho'lpon"
+}
+```
