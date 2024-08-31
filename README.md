@@ -55,3 +55,5 @@ WEB API - endpoints - URL lar to'plami
     'author':"Cho'lpon"
 }
 ```
+
+http request 3ta kampanentdan tashkil topgan bo'ladi.
