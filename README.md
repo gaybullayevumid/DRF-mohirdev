@@ -57,3 +57,5 @@ WEB API - endpoints - URL lar to'plami
 ```
 
 http request 3ta kampanentdan tashkil topgan bo'ladi.
+
+**ListAPIVIew** - `ListAPIView` bu **Django REST Framework**ning umumiy foydalanish uchun tayyorlangan sinflaridan biri bo‘lib, u `API` endpointlarini yaratishda ma'lumotlarni ro‘yxat ko‘rinishida chiqarish uchun ishlatiladi. Bu sinf `GET` so‘rovini qayta ishlaydi va querysetdan olingan obyektlar ro‘yxatini `JSON` formatida qaytaradi.
